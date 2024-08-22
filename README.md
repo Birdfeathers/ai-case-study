@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 * Company Beginnings and History
-    * 2008:  iNaturalist began as a Master's project at UC Berkeley's School of Information.
-    * 2014:  iNaturalist became a joint initiative under the California Academy of Sciences.
-    * 2017: The National Geographic Society joined iNaturalist as a partner.
-    * 2018: Seek, a separate app by iNaturalist, was released.
-    * 2023: iNaturalist became an independent non-profit organization.
+    * **2008:**  iNaturalist began as a Master's project at UC Berkeley's School of Information.
+    * **2014:**  iNaturalist became a joint initiative under the California Academy of Sciences.
+    * **2017:** The National Geographic Society joined iNaturalist as a partner.
+    * **2018:** Seek, a separate app by iNaturalist, was released.
+    * **2023:** iNaturalist became an independent non-profit organization.
     * Sources: [iNaturalist About Page](https://www.inaturalist.org/pages/about), [Wikipedia iNaturalist Page](https://en.wikipedia.org/wiki/INaturalist/)
 
 * Founders
